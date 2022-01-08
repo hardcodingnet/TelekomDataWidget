@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+  <declare-styleable name="DataGaugeView">
+    <attr name="bgColor" format="color" />
+    <attr name="dataGaugeColor" format="color" />
+    <attr name="timeGaugeColor" format="color" />
+    <attr name="usedAmount" format="string" />
+    <attr name="usedAmountUnit" format="string" />
+    <attr name="totalAmount" format="string" />
+    <attr name="totalAmountUnit" format="string" />
+    <attr name="usedAmountPercent" format="float" />
+    <attr name="timePercent" format="float" />
+  </declare-styleable>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/data_gauge_widget"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <telekomdatawidget.app.DataGaugeView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bgColor="@color/blackTranslucent"
+        app:dataGaugeColor="@color/colorAccent"
+        app:timeGaugeColor="@color/colorPrimary"
+        app:usedAmountPercent="20"
+        app:timePercent="56"
+        app:usedAmount="135"
+        app:usedAmountUnit="MB"
+        app:totalAmount="10"
+        app:totalAmountUnit="GB"
+    />
+
+</FrameLayout>

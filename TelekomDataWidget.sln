@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelekomDataWidget.App", "TelekomDataWidget.App\TelekomDataWidget.App.csproj", "{E272197C-8D97-47AB-8301-C2C93BFDA84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E272197C-8D97-47AB-8301-C2C93BFDA84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E272197C-8D97-47AB-8301-C2C93BFDA84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E272197C-8D97-47AB-8301-C2C93BFDA84A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E272197C-8D97-47AB-8301-C2C93BFDA84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E272197C-8D97-47AB-8301-C2C93BFDA84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBF59D4C-AA1A-4998-B0A7-7711A04440B9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sfis0003.sf.sfi-online.net:8080/tfs/products
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TelekomDataWidget.App\\TelekomDataWidget.App.csproj
+		SccProjectName1 = TelekomDataWidget.App
+		SccLocalPath1 = TelekomDataWidget.App
+	EndGlobalSection
+EndGlobal
